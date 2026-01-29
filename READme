@@ -1,0 +1,22 @@
+Project 3: TaskQuest TS
+Concept
+
+TaskQuest TS is a personal task tracker built with TypeScript.
+
+It allows users to:
+
+Add tasks with name, priority, and due date
+
+Mark tasks as completed
+
+Filter tasks by priority or completion status
+
+See overdue and upcoming tasks
+
+Why unique:
+
+Most task trackers are in plain JS; using TypeScript adds type safety
+
+Combines priority + due date + completion filters
+
+Lightweight, expandable, and professional
