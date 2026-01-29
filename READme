@@ -1,22 +1,53 @@
-Project 3: TaskQuest TS
-Concept
+TaskQuest Fullstack
 
-TaskQuest TS is a personal task tracker built with TypeScript.
+TaskQuest is a full-stack task management application built to help users organize and track their daily tasks in a simple and practical way. The project focuses on clarity and real-world structure rather than complex or unnecessary features.
 
-It allows users to:
+This project was created as part of my learning journey in full-stack development. It shows how frontend and backend components work together in a clean and understandable way.
 
-Add tasks with name, priority, and due date
+What the application does
 
-Mark tasks as completed
+TaskQuest allows users to create tasks, view them in a clear list, and keep track of their progress. The interface is simple and easy to use, making it suitable for everyday task management. The project is lightweight and designed so that more features can be added later.
 
-Filter tasks by priority or completion status
+Tech stack
 
-See overdue and upcoming tasks
+Frontend
+TypeScript and modern JavaScript tools
 
-Why unique:
+Backend
+Node.js with Express or a similar framework
 
-Most task trackers are in plain JS; using TypeScript adds type safety
+Other tools
+Git and GitHub for version control
+REST-style API structure
 
-Combines priority + due date + completion filters
+Project structure
 
-Lightweight, expandable, and professional
+The project is organized into frontend and backend folders. The backend handles server logic and routes, while the frontend contains the user interface components and pages. This structure follows common full-stack project practices.
+
+How to run the project locally
+
+First, clone the repository from GitHub.
+Then navigate into the project folder.
+Install the required dependencies using npm.
+Start the development server.
+
+Node.js must be installed on your machine before running the project.
+
+Purpose of the project
+
+The main goal of this project is to practice full-stack development and apply TypeScript in a real application. It also helped me learn proper project structure and how to build a functional, presentable application from start to finish.
+
+This project also serves as a portfolio piece to demonstrate practical frontend and backend skills.
+
+Future improvements
+
+In the future, the project can be extended with user authentication, task categories and priorities, due dates and reminders, better user interface design, and database integration.
+
+Author
+
+Angele Ukunze
+Master’s student in Computer Science
+
+License
+
+This project is licensed under the MIT License.
